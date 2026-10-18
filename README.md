@@ -17,7 +17,7 @@ Building tools that close the gap between design systems, performance, and shipp
 
 ### 🚀 Flagship Projects
 
-- **[Chronos Time Tracker](https://github.com/NiL4gh/chronos-app)** · [⚡ 1-Click Interactive Demo](https://chronos-demo-beige.vercel.app/#/my-time)  
+- **[Chronos Time Tracker](https://github.com/NiL4gh/chronos-app)** · [⚡ 1-Click Interactive Demo](https://chronos-app-rosy.vercel.app)  
   *Enterprise B2B Time Intelligence & Workforce Management platform.*
   - Multi-tenant data isolation with strict PostgreSQL Row-Level Security (RLS).
   - Dual-bundle code-splitting (24 kB initial auth chunk) with sub-second TTI.
